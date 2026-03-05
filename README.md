@@ -21,3 +21,11 @@
 2. https://www.geeksforgeeks.org/problems/find-unique-number/1
 3. https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1
 4. https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1
+
+## IL
+1. https://leetcode.com/problems/four-divisors/
+1. https://practice.geeksforgeeks.org/problems/number-of-open-doors1552/1
+1. https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1
+1. https://leetcode.com/problems/reverse-bits/description/
+1. https://leetcode.com/problems/unique-paths/description/
+
