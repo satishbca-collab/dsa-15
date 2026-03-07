@@ -29,3 +29,8 @@
 1. https://leetcode.com/problems/reverse-bits/description/
 1. https://leetcode.com/problems/unique-paths/description/
 
+## Search
+1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+1. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+1. https://leetcode.com/problems/find-peak-element/description/
+
