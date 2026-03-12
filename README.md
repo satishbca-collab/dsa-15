@@ -32,5 +32,17 @@
 ## Search
 1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 1. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+
+## Recursion
+1. https://www.geeksforgeeks.org/problems/palindrome-string0817/1
+1. https://leetcode.com/problems/generate-parentheses/description/
+1. https://leetcode.com/problems/permutations/description/
+1. https://leetcode.com/problems/combination-sum/description/
+
+## IL Searching and Recursion
 1. https://leetcode.com/problems/find-peak-element/description/
+1. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+1. https://leetcode.com/problems/power-of-three/description/
+1. https://leetcode.com/problems/predict-the-winner/description/
 
