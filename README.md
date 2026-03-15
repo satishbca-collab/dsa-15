@@ -37,8 +37,6 @@
 ## Recursion
 1. https://www.geeksforgeeks.org/problems/palindrome-string0817/1
 1. https://leetcode.com/problems/generate-parentheses/description/
-1. https://leetcode.com/problems/permutations/description/
-1. https://leetcode.com/problems/combination-sum/description/
 
 ## IL Searching and Recursion
 1. https://leetcode.com/problems/find-peak-element/description/
@@ -46,3 +44,7 @@
 1. https://leetcode.com/problems/power-of-three/description/
 1. https://leetcode.com/problems/predict-the-winner/description/
 
+## Backtracking
+1. https://leetcode.com/problems/n-queens/description/
+1. https://leetcode.com/problems/permutations/description/
+1. https://leetcode.com/problems/combination-sum/description/
