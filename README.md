@@ -48,3 +48,7 @@
 1. https://leetcode.com/problems/n-queens/description/
 1. https://leetcode.com/problems/permutations/description/
 1. https://leetcode.com/problems/combination-sum/description/
+
+## Pointers
+1. https://leetcode.com/problems/two-sum/description/
+1. https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
