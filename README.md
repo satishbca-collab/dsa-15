@@ -52,3 +52,11 @@
 ## Pointers
 1. https://leetcode.com/problems/two-sum/description/
 1. https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
+
+## Sorting
+1. https://leetcode.com/problems/sort-an-array/
+
+## Hashing
+1. https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
+1. https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
