@@ -60,3 +60,11 @@
 1. https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
 1. https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
 1. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+## IL
+1. https://leetcode.com/problems/trapping-rain-water/
+1. https://leetcode.com/problems/sort-colors/description/
+
+
+
+
