@@ -65,6 +65,18 @@
 1. https://leetcode.com/problems/trapping-rain-water/
 1. https://leetcode.com/problems/sort-colors/description/
 
+## Stack and Queue
+1. https://leetcode.com/problems/min-stack/
+1. https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
+1. https://leetcode.com/problems/implement-stack-using-queues/
+
+## Linked list
+1. https://leetcode.com/problems/middle-of-the-linked-list/
+1. https://leetcode.com/problems/linked-list-cycle/
+1. https://leetcode.com/problems/sort-list/
+1. https://leetcode.com/problems/reverse-linked-list/
+1. https://leetcode.com/problems/linked-list-cycle-ii/
+1. 
 
 
 
