@@ -59,7 +59,7 @@
 ## Hashing
 1. https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
 1. https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
-1. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
 
 ## IL
 1. https://leetcode.com/problems/trapping-rain-water/
@@ -76,7 +76,18 @@
 1. https://leetcode.com/problems/sort-list/
 1. https://leetcode.com/problems/reverse-linked-list/
 1. https://leetcode.com/problems/linked-list-cycle-ii/
-1. 
+
+## IL Hashing
+1. https://leetcode.com/problems/valid-anagram/description/
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+1. https://leetcode.com/problems/longest-consecutive-sequence/description/
+1. https://leetcode.com/problems/subarray-sum-equals-k/
+
+## Trees
+1. https://leetcode.com/problems/binary-tree-inorder-traversal
+1. https://leetcode.com/problems/binary-tree-preorder-traversal
+1. https://leetcode.com/problems/binary-tree-postorder-traversal
+1. https://leetcode.com/problems/binary-tree-level-order-traversal/description
 
 
 
