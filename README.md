@@ -89,5 +89,11 @@
 1. https://leetcode.com/problems/binary-tree-postorder-traversal
 1. https://leetcode.com/problems/binary-tree-level-order-traversal/description
 
+## Trees 2
+1. https://leetcode.com/problems/count-complete-tree-nodes/description/
+1. https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+1. https://leetcode.com/problems/balanced-binary-tree/description/
+1. https://leetcode.com/problems/validate-binary-search-tree/
+
 
 
