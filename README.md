@@ -102,3 +102,6 @@
 1. https://leetcode.com/problems/implement-stack-using-queues/
 1. https://leetcode.com/problems/gas-station/
 
+## Tries
+1. https://leetcode.com/problems/counting-words-with-a-given-prefix/
+1. https://www.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1
